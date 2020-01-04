@@ -2,8 +2,8 @@
 
 ## Run Application
 
-npm install - to isntall all dependances
-npm start - to run application
+- 'npm install' to isntall all dependances
+- 'npm start' to run application
 
 ## Objectives
 
