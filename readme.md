@@ -1,5 +1,10 @@
 # Assignment
 
+## Run Application
+
+npm install - to isntall all dependances
+npm start - to run application
+
 ## Objectives
 
 By the end of this project you will:
